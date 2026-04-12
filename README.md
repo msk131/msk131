@@ -107,20 +107,6 @@ Dynamic reverse proxy configurations with Consul and Nginx on Kubernetes.
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Mani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=msk131&show_icons=true&theme=default&hide_border=true&count_private=true)
-&nbsp;&nbsp;
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=msk131&layout=compact&theme=default&hide_border=true)
-
-![Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=msk131&theme=default&hide_border=true)
-
-</div>
-
----
-
 ## 📬 Let's Connect
 
 | Platform | Link |
