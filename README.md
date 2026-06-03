@@ -4,7 +4,7 @@
 
 **Staff Backend Engineer | Distributed Systems | GenAI**
 
-![Experience](https://img.shields.io/badge/Experience-12%2B%20Years-black?style=flat-square)
+![Experience](https://img.shields.io/badge/Experience-11%2B%20Years-black?style=flat-square)
 ![Domain](https://img.shields.io/badge/Domain-BFSI%20%26%20SaaS-blue?style=flat-square)
 ![Location](https://img.shields.io/badge/Location-Gurgaon%2C%20India-orange?style=flat-square)
 ![Status](https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=flat-square)
