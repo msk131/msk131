@@ -19,7 +19,7 @@
 
 ## About
 
-Backend engineer with 12+ years of experience building scalable distributed
+Backend engineer with 11+ years of experience building scalable distributed
 systems across BFSI and SaaS platforms. I focus on backend architecture,
 event-driven systems, cloud-native services, and production GenAI applications.
 
